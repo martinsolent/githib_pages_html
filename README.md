@@ -7,17 +7,17 @@ That's it. That's web publishing.
 
 ## How you got here
 
-### 1 — Create a repo
+### 1 Create a repo
 You made a new repository on GitHub and named it something sensible. That's your project's home.
 
-### 2 — Upload your file
+### 2 Upload your file
 You added a file to the repo. GitHub looks for `index.html` by default — that's the page it serves.
 
-### 3 — Switch on Pages
+### 3 Switch on Pages
 **Settings → Pages → Source: `main` branch.**  
 GitHub builds and deploys your site automatically.
 
-### 4 — Get your URL
+### 4 Get your URL
 GitHub gives you a public URL:
 
 ```
